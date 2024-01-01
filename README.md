@@ -11,7 +11,7 @@ It's been few years since I started learing to code, in last year of my diploma 
 * ✉️  You can contact me at [LinkedIn](https://ca.linkedin.com/in/deep1327007)
 * 🚀  I'm currently working on [My Python Skills](http://github.com/deep1327007/Rookie-Codes-In-Python)
 * 🧠  I'm learning MERN Stack.
-* ⚡  i'm into philosophy so if you find any share me on twitter.
+* ⚡  I'm kind of into philosophy so if you find any share with me on twitter.
 
 ### Skills
 
