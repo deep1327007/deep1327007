@@ -8,7 +8,7 @@ It's been few years since I started learing to code, in last year of my diploma 
 
 * 🌍  I'm based in Canada.
 * 🖥️  See my portfolio at [MyPortfolio](http://deep1327007.github.io/Portfolio/)
-* ✉️  You can contact me at [Twitter](mailto:Twitter)
+* ✉️  You can contact me at [LinkedIn](https://ca.linkedin.com/in/deep1327007)
 * 🚀  I'm currently working on [My Python Skills](http://github.com/deep1327007/Rookie-Codes-In-Python)
 * 🧠  I'm learning MERN Stack.
 * ⚡  i'm into philosophy so if you find any share me on twitter.
