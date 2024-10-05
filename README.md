@@ -7,7 +7,7 @@ Front-end Developer
 It's been few years since I started learing to code, in last year of my diploma computer engineering I build full stack web-application with team and after that my journey in programming have started and i am currently learing new stack in web-development.
 
 * 🌍  I'm based in Canada.
-* 🖥️  See my portfolio at [MyPortfolio](http://deep1327007.github.io/Portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://deep1327007.github.io/deep-portfolio/)
 * ✉️  You can contact me at [LinkedIn](https://ca.linkedin.com/in/deep1327007)
 * 🚀  I'm currently working on [My Python Skills](http://github.com/deep1327007/Rookie-Codes-In-Python)
 * 🧠  I'm learning MERN Stack.
