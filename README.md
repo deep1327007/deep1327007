@@ -4,7 +4,7 @@
 I’ve been coding for a few years, starting with a full-stack web app I built with my team during my Computer Engineering diploma. Since then, I’ve been diving deeper into web development, focusing on frontend skills and exploring full-stack technologies. I’m based in Canada and passionate about creating clean, functional apps.
 
 - 🌍 **Location**: Canada
-- 🖥️ **Portfolio**: [deep1327007.github.io/deep-portfolio/](https://deep1327007.github.io/deep-portfolio/)
+- 🖥️ **Portfolio**: [deep1327007.github.io/deep-portfolio/](https://deep1327007.github.io/deep-portfolio/) *(Updating soon!)*
 - ✉️ **Contact**: [LinkedIn](https://ca.linkedin.com/in/deep1327007) | [X](https://x.com/deep13270007)
 - 🚀 **Current Project**: Building a Task Manager with React, Vite, Chakra UI, Spring Boot, and MySQL
 - 🧠 **Learning**: MERN Stack (MongoDB, Express, React, Node.js) and Python
@@ -24,7 +24,7 @@ I’m strongest in frontend development but comfortable with some backend and pr
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring Boot" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" width="36" height="36" alt="Spring Boot" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
